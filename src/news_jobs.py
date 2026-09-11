@@ -16,6 +16,18 @@ NEWS_SOURCES = [
     {
         "name": "The Verge AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence"
+    },
+    {
+        "name": "Ars Technica AI",
+        "url": "https://arstechnica.com/ai/"
+    },
+    {
+        "name": "VentureBeat AI",
+        "url": "https://venturebeat.com/category/ai/"
+    },
+    {
+        "name": "MIT Technology Review AI",
+        "url": "https://www.technologyreview.com/topic/artificial-intelligence/"
     }
 ]
 
@@ -54,6 +66,7 @@ def parse_datetime(value):
         try:
             parsed = datetime.strptime(value, fmt)
             return parsed.replace(tzinfo=timezone.utc)
+
         except ValueError:
             continue
 
@@ -118,7 +131,6 @@ def extract_published_date(soup):
         "script",
         type="application/ld+json"
     ):
-
         text = script.get_text(
             strip=True
         )
@@ -427,12 +439,16 @@ async def main():
             == "FRESH_24H"
         ]
 
-        unknown_records = [
+        stale_or_unknown_records = [
             record
             for record in all_records
             if record["content"]["freshness"]
             != "FRESH_24H"
         ]
+
+        # Assignment requirement:
+        # only keep content published in the last 24 hours.
+        all_records = fresh_records
 
         output = {
             "generatedAt": datetime.now(
@@ -448,7 +464,7 @@ async def main():
             ),
 
             "staleOrUnknown": len(
-                unknown_records
+                stale_or_unknown_records
             ),
 
             "records": all_records
@@ -472,7 +488,7 @@ async def main():
         )
 
         print(
-            f"Total articles collected: "
+            f"Fresh articles saved: "
             f"{len(all_records)}"
         )
 
@@ -482,8 +498,8 @@ async def main():
         )
 
         print(
-            f"Stale/unknown: "
-            f"{len(unknown_records)}"
+            f"Stale/unknown excluded: "
+            f"{len(stale_or_unknown_records)}"
         )
 
         print(

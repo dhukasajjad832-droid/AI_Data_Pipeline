@@ -1,0 +1,6 @@
+Schema Version,Record Type,Source Name,Source URL,Company,Date,Is Remote,Role Family,Freshness,Raw Text Length,Collected At
+1.0,JOB,LinkedIn Jobs,https://www.linkedin.com/jobs/search/?keywords=AI,,,,AI,FRESH,290500,2026-09-10T07:46:59.297922+00:00
+1.0,JOB,Indeed,https://www.indeed.com/jobs?q=artificial+intelligence,,,,AI,FRESH,27537,2026-09-10T07:46:58.431821+00:00
+1.0,JOB,Wellfound,https://wellfound.com/jobs,,,,AI,FRESH,11018,2026-09-10T07:46:58.374432+00:00
+1.0,JOB,Y Combinator Jobs,https://www.ycombinator.com/jobs,,,,AI,FRESH,370736,2026-09-10T07:46:59.309381+00:00
+1.0,JOB,Remote OK,https://remoteok.com/remote-ai-jobs,,,,AI,FRESH,58176,2026-09-10T07:46:59.300636+00:00
