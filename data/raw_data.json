@@ -1,0 +1,38 @@
+[
+    {
+        "url": "https://example.com",
+        "status": 200,
+        "title": "Example Domain",
+        "headings": [
+            "Example Domain"
+        ],
+        "paragraphs": [
+            "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+            "Learn more"
+        ]
+    },
+    {
+        "url": "https://example.org",
+        "status": 200,
+        "title": "Example Domain",
+        "headings": [
+            "Example Domain"
+        ],
+        "paragraphs": [
+            "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+            "Learn more"
+        ]
+    },
+    {
+        "url": "https://example.net",
+        "status": 200,
+        "title": "Example Domain",
+        "headings": [
+            "Example Domain"
+        ],
+        "paragraphs": [
+            "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+            "Learn more"
+        ]
+    }
+]

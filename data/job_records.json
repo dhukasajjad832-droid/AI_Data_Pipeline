@@ -1,0 +1,87 @@
+[
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "LinkedIn Jobs",
+            "url": "https://www.linkedin.com/jobs/search/?keywords=AI"
+        },
+        "content": {
+            "company": null,
+            "date": null,
+            "is_remote": null,
+            "role_family": "AI",
+            "freshness": "FRESH",
+            "rawTextLength": 290500
+        },
+        "collectedAt": "2026-09-10T07:46:59.297922+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Indeed",
+            "url": "https://www.indeed.com/jobs?q=artificial+intelligence"
+        },
+        "content": {
+            "company": null,
+            "date": null,
+            "is_remote": null,
+            "role_family": "AI",
+            "freshness": "FRESH",
+            "rawTextLength": 27537
+        },
+        "collectedAt": "2026-09-10T07:46:58.431821+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Wellfound",
+            "url": "https://wellfound.com/jobs"
+        },
+        "content": {
+            "company": null,
+            "date": null,
+            "is_remote": null,
+            "role_family": "AI",
+            "freshness": "FRESH",
+            "rawTextLength": 11018
+        },
+        "collectedAt": "2026-09-10T07:46:58.374432+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Y Combinator Jobs",
+            "url": "https://www.ycombinator.com/jobs"
+        },
+        "content": {
+            "company": null,
+            "date": null,
+            "is_remote": null,
+            "role_family": "AI",
+            "freshness": "FRESH",
+            "rawTextLength": 370736
+        },
+        "collectedAt": "2026-09-10T07:46:59.309381+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Remote OK",
+            "url": "https://remoteok.com/remote-ai-jobs"
+        },
+        "content": {
+            "company": null,
+            "date": null,
+            "is_remote": null,
+            "role_family": "AI",
+            "freshness": "FRESH",
+            "rawTextLength": 58176
+        },
+        "collectedAt": "2026-09-10T07:46:59.300636+00:00"
+    }
+]

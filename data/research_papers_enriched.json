@@ -1,0 +1,451 @@
+[
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.12104v1"
+        },
+        "content": {
+            "title": "A Deep Reinforcement Learning Approach for Ramp Metering Based on Traffic Video Data",
+            "authors": [
+                "Bing Liu",
+                "Yu Tang",
+                "Yuxiong Ji",
+                "Yu Shen",
+                "Yuchuan Du"
+            ],
+            "abstract": "Ramp metering that uses traffic signals to regulate vehicle flows from the on-ramps has been widely implemented to improve vehicle mobility of the freeway. Previous studies generally update signal timings in real-time based on predefined traffic measures collected by point detectors, such as traffic volumes and occupancies. Comparing with point detectors, traffic cameras-which have been increasingly deployed on road networks-could cover larger areas and provide more detailed traffic information. In this work, we propose a deep reinforcement learning (DRL) method to explore the potential of traffic video data in improving the efficiency of ramp metering. The proposed method uses traffic video frames as inputs and learns the optimal control strategies directly from the high-dimensional visual inputs. A real-world case study demonstrates that, in comparison with a state-of-the-practice method, the proposed DRL method results in 1) lower travel times in the mainline, 2) shorter vehicle queues at the on-ramp, and 3) higher traffic flows downstream of the merging area. The results suggest that the proposed method is able to extract useful information from the video data for better ramp metering controls.",
+            "paper_url": "http://arxiv.org/abs/2012.12104v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-09T05:08:41Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713101+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.13026v1"
+        },
+        "content": {
+            "title": "Rethink AI-based Power Grid Control: Diving Into Algorithm Design",
+            "authors": [
+                "Xiren Zhou",
+                "Siqi Wang",
+                "Ruisheng Diao",
+                "Desong Bian",
+                "Jiahui Duan",
+                "Di Shi"
+            ],
+            "abstract": "Recently, deep reinforcement learning (DRL)-based approach has shown promisein solving complex decision and control problems in power engineering domain.In this paper, we present an in-depth analysis of DRL-based voltage control fromaspects of algorithm selection, state space representation, and reward engineering.To resolve observed issues, we propose a novel imitation learning-based approachto directly map power grid operating points to effective actions without any interimreinforcement learning process. The performance results demonstrate that theproposed approach has strong generalization ability with much less training time.The agent trained by imitation learning is effective and robust to solve voltagecontrol problem and outperforms the former RL agents.",
+            "paper_url": "http://arxiv.org/abs/2012.13026v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-23T23:38:41Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713151+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.13293v1"
+        },
+        "content": {
+            "title": "Fuzzy Commitments Offer Insufficient Protection to Biometric Templates Produced by Deep Learning",
+            "authors": [
+                "Danny Keller",
+                "Margarita Osadchy",
+                "Orr Dunkelman"
+            ],
+            "abstract": "In this work, we study the protection that fuzzy commitments offer when they are applied to facial images, processed by the state of the art deep learning facial recognition systems. We show that while these systems are capable of producing great accuracy, they produce templates of too little entropy. As a result, we present a reconstruction attack that takes a protected template, and reconstructs a facial image. The reconstructed facial images greatly resemble the original ones. In the simplest attack scenario, more than 78% of these reconstructed templates succeed in unlocking an account (when the system is configured to 0.1% FAR). Even in the \"hardest\" settings (in which we take a reconstructed image from one system and use it in a different system, with different feature extraction process) the reconstructed image offers 50 to 120 times higher success rates than the system's FAR.",
+            "paper_url": "http://arxiv.org/abs/2012.13293v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-24T15:28:33Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713181+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.13315v1"
+        },
+        "content": {
+            "title": "Generalization in portfolio-based algorithm selection",
+            "authors": [
+                "Maria-Florina Balcan",
+                "Tuomas Sandholm",
+                "Ellen Vitercik"
+            ],
+            "abstract": "Portfolio-based algorithm selection has seen tremendous practical success over the past two decades. This algorithm configuration procedure works by first selecting a portfolio of diverse algorithm parameter settings, and then, on a given problem instance, using an algorithm selector to choose a parameter setting from the portfolio with strong predicted performance. Oftentimes, both the portfolio and the algorithm selector are chosen using a training set of typical problem instances from the application domain at hand. In this paper, we provide the first provable guarantees for portfolio-based algorithm selection. We analyze how large the training set should be to ensure that the resulting algorithm selector's average performance over the training set is close to its future (expected) performance. This involves analyzing three key reasons why these two quantities may diverge: 1) the learning-theoretic complexity of the algorithm selector, 2) the size of the portfolio, and 3) the learning-theoretic complexity of the algorithm's performance as a function of its parameters. We introduce an end-to-end learning-theoretic analysis of the portfolio construction and algorithm selection together. We prove that if the portfolio is large, overfitting is inevitable, even with an extremely simple algorithm selector. With experiments, we illustrate a tradeoff exposed by our theoretical analysis: as we increase the portfolio size, we can hope to include a well-suited parameter setting for every possible problem instance, but it becomes impossible to avoid overfitting.",
+            "paper_url": "http://arxiv.org/abs/2012.13315v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-24T16:33:17Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713206+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.13391v2"
+        },
+        "content": {
+            "title": "I like fish, especially dolphins: Addressing Contradictions in Dialogue Modeling",
+            "authors": [
+                "Yixin Nie",
+                "Mary Williamson",
+                "Mohit Bansal",
+                "Douwe Kiela",
+                "Jason Weston"
+            ],
+            "abstract": "To quantify how well natural language understanding models can capture consistency in a general conversation, we introduce the DialoguE COntradiction DEtection task (DECODE) and a new conversational dataset containing both human-human and human-bot contradictory dialogues. We then compare a structured utterance-based approach of using pre-trained Transformer models for contradiction detection with the typical unstructured approach. Results reveal that: (i) our newly collected dataset is notably more effective at providing supervision for the dialogue contradiction detection task than existing NLI data including those aimed to cover the dialogue domain; (ii) the structured utterance-based approach is more robust and transferable on both analysis and out-of-distribution dialogues than its unstructured counterpart. We also show that our best contradiction detection model correlates well with human judgments and further provide evidence for its usage in both automatically evaluating and improving the consistency of state-of-the-art generative chatbots.",
+            "paper_url": "http://arxiv.org/abs/2012.13391v2",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-24T18:47:49Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713235+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.12447v1"
+        },
+        "content": {
+            "title": "Skeleton-based Approaches based on Machine Vision: A Survey",
+            "authors": [
+                "Jie Li",
+                "Binglin Li",
+                "Min Gao"
+            ],
+            "abstract": "Recently, skeleton-based approaches have achieved rapid progress on the basis of great success in skeleton representation. Plenty of researches focus on solving specific problems according to skeleton features. Some skeleton-based approaches have been mentioned in several overviews on object detection as a non-essential part. Nevertheless, there has not been any thorough analysis of skeleton-based approaches attentively. Instead of describing these techniques in terms of theoretical constructs, we devote to summarizing skeleton-based approaches with regard to application fields and given tasks as comprehensively as possible. This paper is conducive to further understanding of skeleton-based application and dealing with particular issues.",
+            "paper_url": "http://arxiv.org/abs/2012.12447v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-23T02:03:37Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713259+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.12634v1"
+        },
+        "content": {
+            "title": "Overview of FPGA deep learning acceleration based on convolutional neural network",
+            "authors": [
+                "Simin Liu"
+            ],
+            "abstract": "In recent years, deep learning has become more and more mature, and as a commonly used algorithm in deep learning, convolutional neural networks have been widely used in various visual tasks. In the past, research based on deep learning algorithms mainly relied on hardware such as GPUs and CPUs. However, with the increasing development of FPGAs, both field programmable logic gate arrays, it has become the main implementation hardware platform that combines various neural network deep learning algorithms This article is a review article, which mainly introduces the related theories and algorithms of convolution. It summarizes the application scenarios of several existing FPGA technologies based on convolutional neural networks, and mainly introduces the application of accelerators. At the same time, it summarizes some accelerators' under-utilization of logic resources or under-utilization of memory bandwidth, so that they can't get the best performance.",
+            "paper_url": "http://arxiv.org/abs/2012.12634v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-23T12:44:24Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713278+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.11903v1"
+        },
+        "content": {
+            "title": "Modelling Human Routines: Conceptualising Social Practice Theory for Agent-Based Simulation",
+            "authors": [
+                "Rijk Mercuur",
+                "Virginia Dignum",
+                "Catholijn M. Jonker"
+            ],
+            "abstract": "Our routines play an important role in a wide range of social challenges such as climate change, disease outbreaks and coordinating staff and patients in a hospital. To use agent-based simulations (ABS) to understand the role of routines in social challenges we need an agent framework that integrates routines. This paper provides the domain-independent Social Practice Agent (SoPrA) framework that satisfies requirements from the literature to simulate our routines. By choosing the appropriate concepts from the literature on agent theory, social psychology and social practice theory we ensure SoPrA correctly depicts current evidence on routines. By creating a consistent, modular and parsimonious framework suitable for multiple domains we enhance the usability of SoPrA. SoPrA provides ABS researchers with a conceptual, formal and computational framework to simulate routines and gain new insights into social systems.",
+            "paper_url": "http://arxiv.org/abs/2012.11903v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-22T10:06:47Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713304+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.13569v1"
+        },
+        "content": {
+            "title": "Dynamic-K Recommendation with Personalized Decision Boundary",
+            "authors": [
+                "Yan Gao",
+                "Jiafeng Guo",
+                "Yanyan Lan",
+                "Huaming Liao"
+            ],
+            "abstract": "In this paper, we investigate the recommendation task in the most common scenario with implicit feedback (e.g., clicks, purchases). State-of-the-art methods in this direction usually cast the problem as to learn a personalized ranking on a set of items (e.g., webpages, products). The top-N results are then provided to users as recommendations, where the N is usually a fixed number pre-defined by the system according to some heuristic criteria (e.g., page size, screen size). There is one major assumption underlying this fixed-number recommendation scheme, i.e., there are always sufficient relevant items to users' preferences. Unfortunately, this assumption may not always hold in real-world scenarios. In some applications, there might be very limited candidate items to recommend, and some users may have very high relevance requirement in recommendation. In this way, even the top-1 ranked item may not be relevant to a user's preference. Therefore, we argue that it is critical to provide a dynamic-K recommendation, where the K should be different with respect to the candidate item set and the target user. We formulate this dynamic-K recommendation task as a joint learning problem with both ranking and classification objectives. The ranking objective is the same as existing methods, i.e., to create a ranking list of items according to users' interests. The classification objective is unique in this work, which aims to learn a personalized decision boundary to differentiate the relevant items from irrelevant items. Based on these ideas, we extend two state-of-the-art ranking-based recommendation methods, i.e., BPRMF and HRM, to the corresponding dynamic-K versions, namely DK-BPRMF and DK-HRM. Our experimental results on two datasets show that the dynamic-K models are more effective than the original fixed-N recommendation methods.",
+            "paper_url": "http://arxiv.org/abs/2012.13569v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-25T13:02:57Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713330+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.12718v1"
+        },
+        "content": {
+            "title": "Compliance Generation for Privacy Documents under GDPR: A Roadmap for Implementing Automation and Machine Learning",
+            "authors": [
+                "David Restrepo Amariles",
+                "Aurore Clément Troussel",
+                "Rajaa El Hamdani"
+            ],
+            "abstract": "Most prominent research today addresses compliance with data protection laws through consumer-centric and public-regulatory approaches. We shift this perspective with the Privatech project to focus on corporations and law firms as agents of compliance. To comply with data protection laws, data processors must implement accountability measures to assess and document compliance in relation to both privacy documents and privacy practices. In this paper, we survey, on the one hand, current research on GDPR automation, and on the other hand, the operational challenges corporations face to comply with GDPR, and that may benefit from new forms of automation. We attempt to bridge the gap. We provide a roadmap for compliance assessment and generation by identifying compliance issues, breaking them down into tasks that can be addressed through machine learning and automation, and providing notes about related developments in the Privatech project.",
+            "paper_url": "http://arxiv.org/abs/2012.12718v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-23T14:46:51Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713354+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.13666v1"
+        },
+        "content": {
+            "title": "PaXNet: Dental Caries Detection in Panoramic X-ray using Ensemble Transfer Learning and Capsule Classifier",
+            "authors": [
+                "Arman Haghanifar",
+                "Mahdiyar Molahasani Majdabadi",
+                "Seok-Bum Ko"
+            ],
+            "abstract": "Dental caries is one of the most chronic diseases involving the majority of the population during their lifetime. Caries lesions are typically diagnosed by radiologists relying only on their visual inspection to detect via dental x-rays. In many cases, dental caries is hard to identify using x-rays and can be misinterpreted as shadows due to different reasons such as low image quality. Hence, developing a decision support system for caries detection has been a topic of interest in recent years. Here, we propose an automatic diagnosis system to detect dental caries in Panoramic images for the first time, to the best of authors' knowledge. The proposed model benefits from various pretrained deep learning models through transfer learning to extract relevant features from x-rays and uses a capsule network to draw prediction results. On a dataset of 470 Panoramic images used for features extraction, including 240 labeled images for classification, our model achieved an accuracy score of 86.05\\% on the test set. The obtained score demonstrates acceptable detection performance and an increase in caries detection speed, as long as the challenges of using Panoramic x-rays of real patients are taken into account. Among images with caries lesions in the test set, our model acquired recall scores of 69.44\\% and 90.52\\% for mild and severe ones, confirming the fact that severe caries spots are more straightforward to detect and efficient mild caries detection needs a more robust and larger dataset. Considering the novelty of current research study as using Panoramic images, this work is a step towards developing a fully automated efficient decision support system to assist domain experts.",
+            "paper_url": "http://arxiv.org/abs/2012.13666v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-26T03:00:35Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713378+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.13677v1"
+        },
+        "content": {
+            "title": "Toward Compact Data from Big Data",
+            "authors": [
+                "Song-Kyoo",
+                "Kim"
+            ],
+            "abstract": "Bigdata is a dataset of which size is beyond the ability of handling a valuable raw material that can be refined and distilled into valuable specific insights. Compact data is a method that optimizes the big dataset that gives best assets without handling complex bigdata. The compact dataset contains the maximum knowledge patterns at fine grained level for effective and personalized utilization of bigdata systems without bigdata. The compact data method is a tailor-made design which depends on problem situations. Various compact data techniques have been demonstrated into various data-driven research area in the paper.",
+            "paper_url": "http://arxiv.org/abs/2012.13677v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-26T04:45:40Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713401+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.13779v1"
+        },
+        "content": {
+            "title": "Towards sample-efficient episodic control with DAC-ML",
+            "authors": [
+                "Ismael T. Freire",
+                "Adrián F. Amil",
+                "Vasiliki Vouloutsi",
+                "Paul F. M. J. Verschure"
+            ],
+            "abstract": "The sample-inefficiency problem in Artificial Intelligence refers to the inability of current Deep Reinforcement Learning models to optimize action policies within a small number of episodes. Recent studies have tried to overcome this limitation by adding memory systems and architectural biases to improve learning speed, such as in Episodic Reinforcement Learning. However, despite achieving incremental improvements, their performance is still not comparable to how humans learn behavioral policies. In this paper, we capitalize on the design principles of the Distributed Adaptive Control (DAC) theory of mind and brain to build a novel cognitive architecture (DAC-ML) that, by incorporating a hippocampus-inspired sequential memory system, can rapidly converge to effective action policies that maximize reward acquisition in a challenging foraging task.",
+            "paper_url": "http://arxiv.org/abs/2012.13779v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-26T16:38:08Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713427+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/2012.14005v1"
+        },
+        "content": {
+            "title": "Neural document expansion for ad-hoc information retrieval",
+            "authors": [
+                "Cheng Tang",
+                "Andrew Arnold"
+            ],
+            "abstract": "Recently, Nogueira et al. [2019] proposed a new approach to document expansion based on a neural Seq2Seq model, showing significant improvement on short text retrieval task. However, this approach needs a large amount of in-domain training data. In this paper, we show that this neural document expansion approach can be effectively adapted to standard IR tasks, where labels are scarce and many long documents are present.",
+            "paper_url": "http://arxiv.org/abs/2012.14005v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2020-12-27T20:00:08Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713449+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/1904.07934v2"
+        },
+        "content": {
+            "title": "Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations",
+            "authors": [
+                "David Acuna",
+                "Amlan Kar",
+                "Sanja Fidler"
+            ],
+            "abstract": "We tackle the problem of semantic boundary prediction, which aims to identify pixels that belong to object(class) boundaries. We notice that relevant datasets consist of a significant level of label noise, reflecting the fact that precise annotations are laborious to get and thus annotators trade-off quality with efficiency. We aim to learn sharp and precise semantic boundaries by explicitly reasoning about annotation noise during training. We propose a simple new layer and loss that can be used with existing learning-based boundary detectors. Our layer/loss enforces the detector to predict a maximum response along the normal direction at an edge, while also regularizing its direction. We further reason about true object boundaries during training using a level set formulation, which allows the network to learn from misaligned labels in an end-to-end fashion. Experiments show that we improve over the CASENet backbone network by more than 4% in terms of MF(ODS) and 18.61% in terms of AP, outperforming all current state-of-the-art methods including those that deal with alignment. Furthermore, we show that our learned network can be used to significantly improve coarse segmentation labels, lending itself as an efficient way to label new data.",
+            "paper_url": "http://arxiv.org/abs/1904.07934v2",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2019-04-16T19:16:57Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713473+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/1904.08010v1"
+        },
+        "content": {
+            "title": "How to define co-occurrence in different domains of study?",
+            "authors": [
+                "Mathieu Roche"
+            ],
+            "abstract": "This position paper presents a comparative study of co-occurrences. Some similarities and differences in the definition exist depending on the research domain (e.g. linguistics, NLP, computer science). This paper discusses these points, and deals with the methodological aspects in order to identify co-occurrences in a multidisciplinary paradigm.",
+            "paper_url": "http://arxiv.org/abs/1904.08010v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2019-04-16T23:16:56Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713493+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/1905.02810v1"
+        },
+        "content": {
+            "title": "Decision Making with Machine Learning and ROC Curves",
+            "authors": [
+                "Kai Feng",
+                "Han Hong",
+                "Ke Tang",
+                "Jingyuan Wang"
+            ],
+            "abstract": "The Receiver Operating Characteristic (ROC) curve is a representation of the statistical information discovered in binary classification problems and is a key concept in machine learning and data science. This paper studies the statistical properties of ROC curves and its implication on model selection. We analyze the implications of different models of incentive heterogeneity and information asymmetry on the relation between human decisions and the ROC curves. Our theoretical discussion is illustrated in the context of a large data set of pregnancy outcomes and doctor diagnosis from the Pre-Pregnancy Checkups of reproductive age couples in Henan Province provided by the Chinese Ministry of Health.",
+            "paper_url": "http://arxiv.org/abs/1905.02810v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2019-05-05T08:01:23Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713520+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/1905.02845v1"
+        },
+        "content": {
+            "title": "Feature Selection and Feature Extraction in Pattern Analysis: A Literature Review",
+            "authors": [
+                "Benyamin Ghojogh",
+                "Maria N. Samad",
+                "Sayema Asif Mashhadi",
+                "Tania Kapoor",
+                "Wahab Ali",
+                "Fakhri Karray",
+                "Mark Crowley"
+            ],
+            "abstract": "Pattern analysis often requires a pre-processing stage for extracting or selecting features in order to help the classification, prediction, or clustering stage discriminate or represent the data in a better way. The reason for this requirement is that the raw data are complex and difficult to process without extracting or selecting appropriate features beforehand. This paper reviews theory and motivation of different common methods of feature selection and extraction and introduces some of their applications. Some numerical implementations are also shown for these methods. Finally, the methods in feature selection and extraction are compared.",
+            "paper_url": "http://arxiv.org/abs/1905.02845v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2019-05-07T23:41:34Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713553+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/1905.01984v1"
+        },
+        "content": {
+            "title": "AI-Powered Text Generation for Harmonious Human-Machine Interaction: Current State and Future Directions",
+            "authors": [
+                "Qiuyun Zhang",
+                "Bin Guo",
+                "Hao Wang",
+                "Yunji Liang",
+                "Shaoyang Hao",
+                "Zhiwen Yu"
+            ],
+            "abstract": "In the last two decades, the landscape of text generation has undergone tremendous changes and is being reshaped by the success of deep learning. New technologies for text generation ranging from template-based methods to neural network-based methods emerged. Meanwhile, the research objectives have also changed from generating smooth and coherent sentences to infusing personalized traits to enrich the diversification of newly generated content. With the rapid development of text generation solutions, one comprehensive survey is urgent to summarize the achievements and track the state of the arts. In this survey paper, we present the general systematical framework, illustrate the widely utilized models and summarize the classic applications of text generation.",
+            "paper_url": "http://arxiv.org/abs/1905.01984v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2019-05-01T23:26:38Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713583+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "RESEARCH_PAPER",
+        "source": {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/1905.02019v1"
+        },
+        "content": {
+            "title": "Conditioning LSTM Decoder and Bi-directional Attention Based Question Answering System",
+            "authors": [
+                "Heguang Liu"
+            ],
+            "abstract": "Applying neural-networks on Question Answering has gained increasing popularity in recent years. In this paper, I implemented a model with Bi-directional attention flow layer, connected with a Multi-layer LSTM encoder, connected with one start-index decoder and one conditioning end-index decoder. I introduce a new end-index decoder layer, conditioning on start-index output. The Experiment shows this has increased model performance by 15.16%. For prediction, I proposed a new smart-span equation, rewarding both short answer length and high probability in start-index and end-index, which further improved the prediction accuracy. The best single model achieves an F1 score of 73.97% and EM score of 64.95% on test set.",
+            "paper_url": "http://arxiv.org/abs/1905.02019v1",
+            "github_url": null,
+            "github_stars": null,
+            "published_date": "2019-05-02T01:07:20Z"
+        },
+        "collectedAt": "2026-09-10T07:59:51.713603+00:00"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "schemaVersion": "1.0",
+        "recordType": "STARTUP",
+        "source": {
+            "name": "GitHub API",
+            "url": "https://api.github.com/orgs/openai"
+        },
+        "content": {
+            "entityName": "openai",
+            "data": {
+                "website": "https://openai.com/",
+                "publicRepositories": 271
+            }
+        },
+        "collectedAt": "2026-09-10T00:00:00Z"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "STARTUP",
+        "source": {
+            "name": "GitHub API",
+            "url": "https://api.github.com/orgs/huggingface"
+        },
+        "content": {
+            "entityName": "huggingface",
+            "data": {
+                "website": "https://huggingface.co/",
+                "publicRepositories": 467
+            }
+        },
+        "collectedAt": "2026-09-10T00:00:00Z"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "STARTUP",
+        "source": {
+            "name": "GitHub API",
+            "url": "https://api.github.com/orgs/pytorch"
+        },
+        "content": {
+            "entityName": "pytorch",
+            "data": {
+                "website": "https://pytorch.org",
+                "publicRepositories": 70
+            }
+        },
+        "collectedAt": "2026-09-10T00:00:00Z"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "STARTUP",
+        "source": {
+            "name": "GitHub API",
+            "url": "https://api.github.com/orgs/tensorflow"
+        },
+        "content": {
+            "entityName": "tensorflow",
+            "data": {
+                "website": "http://www.tensorflow.org",
+                "publicRepositories": 107
+            }
+        },
+        "collectedAt": "2026-09-10T00:00:00Z"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "STARTUP",
+        "source": {
+            "name": "GitHub API",
+            "url": "https://api.github.com/orgs/nvidia"
+        },
+        "content": {
+            "entityName": "NVIDIA",
+            "data": {
+                "website": "https://nvidia.com",
+                "publicRepositories": 801
+            }
+        },
+        "collectedAt": "2026-09-10T00:00:00Z"
+    }
+]

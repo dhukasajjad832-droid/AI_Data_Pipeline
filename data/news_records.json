@@ -1,0 +1,540 @@
+{
+    "generatedAt": "2026-09-10T07:56:10.545705+00:00",
+    "totalCollected": 20,
+    "freshLast24Hours": 14,
+    "staleOrUnknown": 6,
+    "records": [
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "TechCrunch AI",
+                "url": "https://techcrunch.com/events/techcrunch-disrupt/?utm_source=google&utm_medium=ad&utm_campaign=disrupt2026&utm_content=addiscount&promo=Disrupt25&display=true"
+            },
+            "content": {
+                "title": "TechCrunch Disrupt 2026 | TechCrunch",
+                "description": "TechCrunch Disrupt 2026 is the startup epicenter for tech and VC leaders. Taking place at Moscone West in San Francisco from October 13-15, 2026.",
+                "publishedDate": "2025-10-27T03:16:18+00:00",
+                "freshness": "STALE_OR_UNKNOWN",
+                "paragraphs": [
+                    "October 13 – 15, 2026 — San Francisco",
+                    "Disrupt is where you’ll find innovation for every stage of your startup journey. Whether you’re a budding founder with a revolutionary idea, a seasoned startup looking to scale, or an investor seeking the next big thing, Disrupt offers unparalleled resources, connections, and expert insights to propel your venture forward.",
+                    "Scale faster through funding, exposure, networking, and startup growth insights.",
+                    "Grow your portfolio by discovering breakout startups, emerging trends, and founders.",
+                    "Gain practical strategies, peer insights, and tools to scale operations effectively.",
+                    "Explore breakthrough ideas, emerging tech, and connections shaping the future.",
+                    "SVP, Devices, Alexa & Leo Amazon",
+                    "What Comes After the Smartphone?",
+                    "AI, Surveillance, and the Future of Public Safety",
+                    "Everyone Can Build Software Now. What Happens Next?"
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:02.289700+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "TechCrunch AI",
+                "url": "https://techcrunch.com/events/techcrunch-disrupt/tickets/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=rb&promo=topbanner_rbend"
+            },
+            "content": {
+                "title": "Tickets - TechCrunch Disrupt 2026 | TechCrunch",
+                "description": "TechCrunch Disrupt 2026 is the startup epicenter for tech and VC leaders. Taking place at Moscone West in San Francisco from October 13-15, 2026.",
+                "publishedDate": "2025-10-27T03:16:18+00:00",
+                "freshness": "STALE_OR_UNKNOWN",
+                "paragraphs": [
+                    "October 13 – 15, 2026 — San Francisco",
+                    "Jump to any pass to see full details",
+                    "View full Investor Pass details",
+                    "Early Bird pricing shown. Standard prices crossed out for transparency.",
+                    "Scroll down to save up to 30% on group orders",
+                    "* Group/bundle savings and BOGO passes cannot be applied with other promotions/offers/discounts. Group/bundle savings only apply when a group of 4+ of the same pass type is purchased in one transaction. Savings cannot be applied to a bulk order of different pass types.",
+                    "TechCrunch offers many ways for partners to engage directly with our attendees before, during, and after the event. If you’re interested in learning more about how your company can be part of the event, get in touch with our sales team below.",
+                    "You can receive a full refund of the ticket purchase price when you email your cancellation to events@techcrunch.com by July 31, 2026, at 11:59 p.m. PT. Amount will be refunded to the method of original purchase. After July 31, 2026, tickets are nonrefundable for any reason.",
+                    "Please note that it is TechCrunch policy that the name on attendees’ printed badge should match the name on the person’s government-issued photo ID. Nicknames or abbreviations are acceptable.",
+                    "Once a badge is printed, we cannot change the name on the badge beyond fixing spelling errors or changing for a nickname."
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:06.923627+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "TechCrunch AI",
+                "url": "https://techcrunch.com"
+            },
+            "content": {
+                "title": "TechCrunch | Startup and Technology News",
+                "description": "TechCrunch | Reporting on the business of technology, startups, venture capital funding, and Silicon Valley",
+                "publishedDate": "2026-09-10T00:00:37+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now",
+                    "Back by popular demand: Save up to $300 on Disrupt",
+                    "Don’t miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?",
+                    "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+                    "A secret new Elizabeth Holmes documentary stuns Telluride",
+                    "What we expect from the upcoming Apple launch",
+                    "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+                    "Hikers rescued after using Google Gemini for planning",
+                    "Feds launch investigation into Tesla’s Cybercab deployment",
+                    "Tesla is asking people if they want to buy and run Cybercab fleets"
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:05.489436+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "TechCrunch AI",
+                "url": "https://techcrunch.com/latest/"
+            },
+            "content": {
+                "title": "Latest News | TechCrunch",
+                "description": "",
+                "publishedDate": "2024-10-02T13:26:41+00:00",
+                "freshness": "STALE_OR_UNKNOWN",
+                "paragraphs": [
+                    "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now",
+                    "Back by popular demand: Save up to $300 on Disrupt",
+                    "Don’t miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?",
+                    "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+                    "A secret new Elizabeth Holmes documentary stuns Telluride",
+                    "What we expect from the upcoming Apple launch",
+                    "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+                    "Hikers rescued after using Google Gemini for planning",
+                    "Feds launch investigation into Tesla’s Cybercab deployment",
+                    "Tesla is asking people if they want to buy and run Cybercab fleets"
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:05.800628+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "TechCrunch AI",
+                "url": "https://techcrunch.com/category/startups/"
+            },
+            "content": {
+                "title": "Startups | TechCrunch",
+                "description": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry.",
+                "publishedDate": "2026-09-09T18:34:24+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now",
+                    "Back by popular demand: Save up to $300 on Disrupt",
+                    "Tech startup news that breaks down the funding, growth, and long-term trajectory of companies across every stage and industry. Startup coverage includes climate, crypto, fintech, SaaS, transportation, and consumer tech.",
+                    "Don’t miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?",
+                    "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+                    "A secret new Elizabeth Holmes documentary stuns Telluride",
+                    "What we expect from the upcoming Apple launch",
+                    "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+                    "Hikers rescued after using Google Gemini for planning",
+                    "Feds launch investigation into Tesla’s Cybercab deployment"
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:05.235339+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "TechCrunch AI",
+                "url": "https://techcrunch.com/category/venture/"
+            },
+            "content": {
+                "title": "Venture Capital News | TechCrunch",
+                "description": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking.",
+                "publishedDate": "2026-09-10T00:00:37+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now",
+                    "Back by popular demand: Save up to $300 on Disrupt",
+                    "Our venture capital news features interviews and analysis on all the VCs, the VC-backed startups, and the investment trends that founders, investors, students, academics – and anyone else interested in the way that tech is transforming the world – should be tracking.",
+                    "Don’t miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?",
+                    "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+                    "A secret new Elizabeth Holmes documentary stuns Telluride",
+                    "What we expect from the upcoming Apple launch",
+                    "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+                    "Hikers rescued after using Google Gemini for planning",
+                    "Feds launch investigation into Tesla’s Cybercab deployment"
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:04.523805+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "TechCrunch AI",
+                "url": "https://techcrunch.com/tag/apple/"
+            },
+            "content": {
+                "title": "Apple news and analysis | TechCrunch",
+                "description": "Read the latest news and analysis about Apple—including its software, hardware, the Vision Pro, and the anticipated introduction of AI—on TechCrunch.",
+                "publishedDate": "2026-09-09T20:58:09+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now",
+                    "Back by popular demand: Save up to $300 on Disrupt",
+                    "Apple’s hardware and software ecosystems have long created opportunities for startup innovation. The iPhone and its App Store, recent regulatory challenges aside, set the pace for the smartphone market in many countries. And TechCrunch is covering Apple’s expansion into new areas, like with the Vision Pro and AR/VR, as well as its anticipated introduction of AI to iOS.",
+                    "Don’t miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?",
+                    "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+                    "A secret new Elizabeth Holmes documentary stuns Telluride",
+                    "What we expect from the upcoming Apple launch",
+                    "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+                    "Hikers rescued after using Google Gemini for planning",
+                    "Feds launch investigation into Tesla’s Cybercab deployment"
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:06.683073+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "TechCrunch AI",
+                "url": "https://techcrunch.com/category/security/"
+            },
+            "content": {
+                "title": "Security News | TechCrunch",
+                "description": "Read the latest news and investigative reporting on security today, including cybersecurity, breaches, hacks and cyberattacks around the globe.",
+                "publishedDate": "2026-09-09T15:02:47+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now",
+                    "Back by popular demand: Save up to $300 on Disrupt",
+                    "Security news coverage encompasses investigative cybersecurity reporting and analysis on the latest security breaches, hacks and cyberattacks around the globe.",
+                    "Don’t miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?",
+                    "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+                    "A secret new Elizabeth Holmes documentary stuns Telluride",
+                    "What we expect from the upcoming Apple launch",
+                    "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+                    "Hikers rescued after using Google Gemini for planning",
+                    "Feds launch investigation into Tesla’s Cybercab deployment"
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:07.784143+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "TechCrunch AI",
+                "url": "https://techcrunch.com/category/artificial-intelligence/"
+            },
+            "content": {
+                "title": "AI News & Artificial Intelligence | TechCrunch",
+                "description": "Read the latest on artificial intelligence and machine learning tech, the companies that are building them, and the ethical issues AI raises today.",
+                "publishedDate": "2026-09-10T00:00:37+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now",
+                    "Back by popular demand: Save up to $300 on Disrupt",
+                    "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today. This encompasses generative AI , including large language models, text-to-image and text-to-video models; speech recognition and generation; and predictive analytics.",
+                    "Don’t miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?",
+                    "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+                    "A secret new Elizabeth Holmes documentary stuns Telluride",
+                    "What we expect from the upcoming Apple launch",
+                    "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+                    "Hikers rescued after using Google Gemini for planning",
+                    "Feds launch investigation into Tesla’s Cybercab deployment"
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:04.897615+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "TechCrunch AI",
+                "url": "https://techcrunch.com/category/apps/"
+            },
+            "content": {
+                "title": "Apps | Read the latest app news on TechCrunch",
+                "description": "As the app economy continues to grow, both on iOS and Google Play stores, TechCrunch covers the latest app news and updates across both digital storefronts.",
+                "publishedDate": "2026-09-09T23:14:29+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now",
+                    "Back by popular demand: Save up to $300 on Disrupt",
+                    "The app economy continues to grow, having produced a record number of downloads and consumer spending across both the iOS and Google Play stores. Keep up with this fast-moving industry in one place, with the latest from the world of apps, including news, updates, startup fundings, mergers and acquisitions, and much more.",
+                    "Don’t miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?",
+                    "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+                    "A secret new Elizabeth Holmes documentary stuns Telluride",
+                    "What we expect from the upcoming Apple launch",
+                    "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+                    "Hikers rescued after using Google Gemini for planning",
+                    "Feds launch investigation into Tesla’s Cybercab deployment"
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:07.139379+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "The Verge AI",
+                "url": "https://www.theverge.com/ai-artificial-intelligence#content"
+            },
+            "content": {
+                "title": "Artificial Intelligence | The Verge",
+                "description": "Artificial intelligence is more a part of our lives than ever before. While some might call it hype and compare it to NFTs or 3D TVs, AI is causing a sea change in nearly every part of the technology industry. OpenAI’s ChatGPT is arguably the best-known AI chatbot around, but with Google pushing Gemini, Microsoft building Copilot, and Apple working to make Siri good, AI is probably going to be in the spotlight for a very long time. At The Verge, we’re exploring what might be possible with AI — and a lot of the bad stuff AI does, too.",
+                "publishedDate": "2026-09-09T21:42:19+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Artificial intelligence is more a part of our lives than ever before. While some might call it hype and compare it to NFTs or 3D TVs, generative AI is causing a sea change in nearly every part of the technology industry. OpenAI’s ChatGPT is still the best-known AI chatbot around, but with Google pushing Gemini, Microsoft building Copilot, and Apple adding its Intelligence to Siri, AI is probably going to be in the spotlight for a very long time. At The Verge, we’re exploring what might be possible with AI — and a lot of the bad stuff AI does, too.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "v6 still can’t capture the ‘natural imperfections’ of real human music.",
+                    "﻿OpenAI is disrupting mathematics, alright.",
+                    "After OpenAI confirmed that its AI agents hijacked a German wiki as a way to communicate, Reuters reports similar incidents have occurred across at least 10 other websites. Reuters says most of the sites OpenAI agents swarmed were “obscure,” including “communally edited wikis, online text storage sites, and a pair of link shorteners run by two universities.”",
+                    "AI data center projects are continuing to pop up across the US, with frequent opposition from locals concerned about their impact. Here are a few recent articles about the projects:",
+                    "The Intercept , citing documents it had seen, reported that the Pentagon requested a custom version of OpenAI’s technology with “minimal refusal rates” for military commands. OpenAI denied ever having signed a contract with such phrasing.",
+                    "First announced at I/O in May , Daily Brief is an AI feature that generates a summary of your day with the emails, meetings, and other information pulled from apps connected to Gemini. It was previously only available to Google AI Plus, Pro, and Ultra subscribers.",
+                    "With the launch of Meta’s new AI agent that it says can handle your life for you , the social network exec posted this video highlighting how secure , private, and trustworthy Muse is, and that it will get even more secure in the future. Trust."
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:04.350313+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "The Verge AI",
+                "url": "https://www.theverge.com/"
+            },
+            "content": {
+                "title": "The Verge",
+                "description": "The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.",
+                "publishedDate": "2026-09-09T18:38:40+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "We’ve tried the first foldable iPhone at Apple’s launch event.",
+                    "We’ve held Apple’s newest Pro phones.",
+                    "﻿Apple’s latest watches come with some new Siri AI features and the return of ceramic cases.",
+                    "﻿Even Apple itself has a history of products called the Duo.",
+                    "The iPhone Duo is also the first iPhone to support the Apple Pencil.",
+                    "The virtual controls seemingly appeared accidentally to several riders in the first couple weeks of the Cybercab’s public launch.",
+                    "The Cybercab lacks traditional features like sideview mirrors and pedals, which are required under federal safety rules.",
+                    "Tesla has 45 Cybercabs registered in Texas, though it’s unclear how many of them will be doing passenger trips.",
+                    "The occasional trillionaire is betting his company on a stripped down, camera-only, steering-wheel-free two-seater. How safe is safe enough?",
+                    "Gamers Nexus gives you another reason to never connect your smart TV to the internet."
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:09.093141+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "The Verge AI",
+                "url": "https://www.theverge.com/tech"
+            },
+            "content": {
+                "title": "Tech | The Verge",
+                "description": "The latest tech news about the world’s best (and sometimes worst) hardware, apps, and much more. From top companies like Google and Apple to tiny startups vying for your attention, Verge Tech has the latest in what matters in technology daily.",
+                "publishedDate": "2026-09-09T23:00:04+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "The latest tech news about the world’s best (and sometimes worst) hardware, apps, and much more. From top companies like Google and Apple to tiny startups vying for your attention, Verge Tech has the latest in what matters in technology daily.",
+                    "﻿Cameras don’t need to be put in absolutely every product.",
+                    "The iPhone 18 Pro comes in four good colors, but there’s only one I care about: black.",
+                    "I saw it, TikTok saw it, and now you’re seeing it too.",
+                    "It’s an interesting video that gives you a better idea of how apps might look on the device. I really like all the different ways apps can appear based on the “pose” of the Duo, and I hope a lot of developers do the right things to make that all work. Apps that aren’t updated for iOS 27 SDK might look a little wonky, though .",
+                    "With AppleCare One Family, which costs $49.99 per month, you get AppleCare Plus with theft and loss coverage for every “eligible” device for as many as six people in a family sharing group. Check out the full details on Apple’s AppleCare website .",
+                    "After OpenAI confirmed that its AI agents hijacked a German wiki as a way to communicate, Reuters reports similar incidents have occurred across at least 10 other websites. Reuters says most of the sites OpenAI agents swarmed were “obscure,” including “communally edited wikis, online text storage sites, and a pair of link shorteners run by two universities.”",
+                    "If you have an iPhone 14, 15, or 16 series phone, Apple will let you keep free access to satellite features for at least another year if you activated them before midnight PT on September 9th, according to Apple’s iPhone 18 Pro press release . The company has extended free access a couple times before .",
+                    "The iPhone 18 Pro and iPhone 18 Pro Max are made with 50 percent renewables. Apple Watch, which Apple has had to stop describing as carbon neutral , reaches 100 percent renewable electricity. The company has a 2030 target for its suppliers to use “100 percent clean energy” for Apple production.",
+                    "Phew . $9 you can spend without worry ."
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:06.798706+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "The Verge AI",
+                "url": "https://www.theverge.com/reviews"
+            },
+            "content": {
+                "title": "Reviews | The Verge",
+                "description": "Looking to buy your next phone, laptop, headphones, or other tech gear? Or maybe you just want to know all of the details about the latest products from Apple, Samsung, Google, and many others. The Verge Reviews is the place for all of that and more. Whether you’re looking for buying advice, how to use products you already own, or the best deals on products we’ve tested and used ourselves and can recommend, you needn’t look any further.",
+                "publishedDate": "2026-09-09T18:53:48+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Looking to buy your next phone, laptop, headphones, or other tech gear? Or maybe you just want to know all of the details about the latest products from Apple, Samsung, Google, and many others. The Verge Reviews is the place for all of that and more. Whether you’re looking for buying advice, how to use products you already own, or the best deals on products we’ve tested and used ourselves and can recommend, you needn’t look any further.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed."
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:07.471901+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "The Verge AI",
+                "url": "https://www.theverge.com/science"
+            },
+            "content": {
+                "title": "Science | The Verge",
+                "description": "Featuring the latest in daily science news, Verge Science is all you need to keep track of what’s going on in health, the environment, and your whole world. Through our articles, we keep a close eye on the overlap between science and technology news — so you’re more informed.",
+                "publishedDate": "2026-09-08T14:00:00+00:00",
+                "freshness": "STALE_OR_UNKNOWN",
+                "paragraphs": [
+                    "Featuring the latest in daily science news, Verge Science is all you need to keep track of what’s going on in health, the environment, and your whole world. Through our articles, we keep a close eye on the overlap between science and technology news — so you’re more informed.",
+                    "DeepMind’s new AI-powered tool can learn patterns between DNA changes and our biology.",
+                    "More energy packed into far less space makes these batteries ideal for day trips or weekend getaways.",
+                    "The iPhone 18 Pro and iPhone 18 Pro Max are made with 50 percent renewables. Apple Watch, which Apple has had to stop describing as carbon neutral , reaches 100 percent renewable electricity. The company has a 2030 target for its suppliers to use “100 percent clean energy” for Apple production.",
+                    "AI data center projects are continuing to pop up across the US, with frequent opposition from locals concerned about their impact. Here are a few recent articles about the projects:",
+                    "It’s to finance the restart of an Iowa plant that’s been closed since 2020. Last year, Google announced a partnership with NextEra Energy to reopen the site to help power the company’s AI data centers . But you won’t see that tidbit in the Energy Department’s press release today.",
+                    "The president posted an image that purports to show the next generation of United States Space Force dress uniforms and, well… they sure look a lot like Imperial officer garb. (Which itself is inspired in part by German SS uniforms.)",
+                    "The US is finally reclassifying plug-in solar as a household appliance to offset high energy costs.",
+                    "The Explorer 2000 Plus v2 packs a 2kWh LFP battery and features a Storm Warning Function to automatically pre-charge ahead of severe weather, and an emergency reserve mode to ensure there’s always power available in case of disaster. It supports 800W of maximum solar input, 3600W of AC output, and up to 12kWh of battery expansion capacity. It launches on September 29th for $1,199, alongside a few other Jackery x Red Cross models. More specs in the pics that follow.",
+                    "In line with its pivot into wellness tech , Nanoleaf has launched a wraparound LED light therapy mask for your neck, which the company claims “is designed to reach deeper layers of the skin and support faster skin cell renewal.” It offers seven lighting modes and near-infrared wavelengths up to 1072nm."
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:07.632059+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "The Verge AI",
+                "url": "https://www.theverge.com/entertainment"
+            },
+            "content": {
+                "title": "Entertainment | The Verge",
+                "description": "The Verge’s entertainment section collects the latest news from the worlds of pop culture, music, movies, television, and video games. Whether you want to know what to watch on Netflix or how to make the most of your streaming service budget, the entertainment section acts a reliable source. There’s simply too much to read, watch, hear, and play. Let us be your tour guide.",
+                "publishedDate": "2026-09-08T16:00:51+00:00",
+                "freshness": "STALE_OR_UNKNOWN",
+                "paragraphs": [
+                    "The Verge’s entertainment section collects the latest news from the worlds of pop culture, music, movies, television, and video games. Whether you want to know what to watch on Netflix or how to make the most of your streaming service budget, the entertainment section acts a reliable source. There’s simply too much to read, watch, hear, and play. Let us be your tour guide.",
+                    "While everyone else is avoiding Rockstar’s next game, the Ocarina of Time remake is going right up against it.",
+                    "While everyone else is avoiding Rockstar’s next game, the Ocarina of Time remake is going right up against it.",
+                    "The default one shows art from games you’ve played recently, but there’s also a “retro inspired” screensaver that features a bouncing Steam logo, lol.",
+                    "Valve is also testing a “Big Art Mode” for your home screen that more prominently features art from your games. There are a bunch of other new features, too: read about them all in the new Steam beta update notes .",
+                    "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.",
+                    "You may have missed it, sandwiched in between a Nintendo Direct and Apple event , but Panic just showed off the third season of games coming to its handheld, which kicks off on October 8th. There’s some promising stuff, too, including a Soulslike action RPG and a Mac-style point-and-click adventure.",
+                    "If you missed Steven Spielberg’s Disclosure Day while it was in theaters, you’ll be able to catch it on Peacock when its makes its streaming premiere on October 9th.",
+                    "The Direct ended with the reveal of an all-new Kirby game that launches in 2027, in which the adorable pink ball seems to discover that the world is much larger than he realizes. He also gets a pretty big sword this time around.",
+                    "Danganronpa 2x2 comes to Switch and Switch 2 on January 14th, 2027. It includes the original story from Danganronpa 2: Goodbye Despair as well as a new story in what’s called “Slayhem” mode. I cannot wait to find out what Slayhem entails."
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:06.274750+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "The Verge AI",
+                "url": "https://www.theverge.com/ai-artificial-intelligence"
+            },
+            "content": {
+                "title": "Artificial Intelligence | The Verge",
+                "description": "Artificial intelligence is more a part of our lives than ever before. While some might call it hype and compare it to NFTs or 3D TVs, AI is causing a sea change in nearly every part of the technology industry. OpenAI’s ChatGPT is arguably the best-known AI chatbot around, but with Google pushing Gemini, Microsoft building Copilot, and Apple working to make Siri good, AI is probably going to be in the spotlight for a very long time. At The Verge, we’re exploring what might be possible with AI — and a lot of the bad stuff AI does, too.",
+                "publishedDate": "2026-09-09T21:42:19+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Artificial intelligence is more a part of our lives than ever before. While some might call it hype and compare it to NFTs or 3D TVs, generative AI is causing a sea change in nearly every part of the technology industry. OpenAI’s ChatGPT is still the best-known AI chatbot around, but with Google pushing Gemini, Microsoft building Copilot, and Apple adding its Intelligence to Siri, AI is probably going to be in the spotlight for a very long time. At The Verge, we’re exploring what might be possible with AI — and a lot of the bad stuff AI does, too.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "Posts from this topic will be added to your daily email digest and your homepage feed.",
+                    "v6 still can’t capture the ‘natural imperfections’ of real human music.",
+                    "﻿OpenAI is disrupting mathematics, alright.",
+                    "After OpenAI confirmed that its AI agents hijacked a German wiki as a way to communicate, Reuters reports similar incidents have occurred across at least 10 other websites. Reuters says most of the sites OpenAI agents swarmed were “obscure,” including “communally edited wikis, online text storage sites, and a pair of link shorteners run by two universities.”",
+                    "AI data center projects are continuing to pop up across the US, with frequent opposition from locals concerned about their impact. Here are a few recent articles about the projects:",
+                    "The Intercept , citing documents it had seen, reported that the Pentagon requested a custom version of OpenAI’s technology with “minimal refusal rates” for military commands. OpenAI denied ever having signed a contract with such phrasing.",
+                    "First announced at I/O in May , Daily Brief is an AI feature that generates a summary of your day with the emails, meetings, and other information pulled from apps connected to Gemini. It was previously only available to Google AI Plus, Pro, and Ultra subscribers.",
+                    "With the launch of Meta’s new AI agent that it says can handle your life for you , the social network exec posted this video highlighting how secure , private, and trustworthy Muse is, and that it will get even more secure in the future. Trust."
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:07.049057+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "The Verge AI",
+                "url": "https://www.theverge.com/policy"
+            },
+            "content": {
+                "title": "Policy | The Verge",
+                "description": "Tech is reshaping the world — and not always for the better. Whether it’s the rules for Apple’s App Store or Facebook’s plan for fighting misinformation, tech platform policies can have enormous ripple effects on the rest of society. They’re so powerful that, increasingly, companies aren’t setting them alone but sharing the fight with government regulators, civil society groups, and internal standards bodies like Meta’s Oversight Board. The result is an ongoing political struggle over harassment, free speech, copyright, and dozens of other issues, all mediated through some of the largest and most chaotic electronic spaces the world has ever seen.",
+                "publishedDate": "2026-09-09T17:07:48+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Tech is reshaping the world — and not always for the better. Whether it’s the rules for Apple’s App Store or Facebook’s plan for fighting misinformation, tech platform policies can have enormous ripple effects on the rest of society. They’re so powerful that, increasingly, companies aren’t setting them alone but sharing the fight with government regulators, civil society groups, and internal standards bodies like Meta’s Oversight Board. The result is an ongoing political struggle over harassment, free speech, copyright, and dozens of other issues, all mediated through some of the largest and most chaotic electronic spaces the world has ever seen.",
+                    "﻿Amid a policy crackdown, it’s agreeing to avoid training on student data and prohibit AI companions.",
+                    "Subscribers of Anthropic’s Max plan ($100-$200 per month) say they didn’t get what they thought they were paying for.",
+                    "Remember when it was cheap and easy for me to buy DJI’s banned camera ? The FCC is currently taking comments on a plan to ban online marketplaces from listing gadgets like that. Platforms would need to validate each device’s FCC status before they list it for sale. Etsy wants its “micro-entrepreneurs” to be exempt.",
+                    "AI data center projects are continuing to pop up across the US, with frequent opposition from locals concerned about their impact. Here are a few recent articles about the projects:",
+                    "As reported by CoinDesk , the memecoin peaked at $190.81 two minutes after it debuted on Wednesday. Its value tumbled quickly after that, with LAPTOP now sitting at around $2.16 — a more than 98 percent drop.",
+                    "President Donald Trump’s memecoin has similarly dipped in value, resulting in more than $3.8 billion in losses .",
+                    "Crooked Ideas, the nonprofit arm of Crooked Media, is tapping Chaotic Era author Kyle Tharp to head up the iniative, which will support existing political influencers and focus on creating content related to issues like AI safety, climate change, healthcare, and “enshittification,” according to a report from Semafor .",
+                    "Searches related to hotels and flights will now more prominently display results linking to price comparison sites, after the EU found Google was breaking antitrust rules by prioritizing its own Shopping, Flights, and Hotels tools, fining it €460 million . Google told Reuters it’s the largest reduction in search quality for 29 years.",
+                    "$LAPTOP plays on the infamous device that dragged him into the political spotlight . It also takes aim at Donald Trump’s similar crypto currency by distributing tokens to wallets that have lost money on $TRUMP, and pledging more if the Democrats win in 2028 or Biden’s crypto market cap overtakes the Trump coin’s."
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:10.545207+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "The Verge AI",
+                "url": "https://www.theverge.com/auth/login?returnPath=/"
+            },
+            "content": {
+                "title": "Login | The Verge",
+                "description": "The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.",
+                "publishedDate": null,
+                "freshness": "STALE_OR_UNKNOWN",
+                "paragraphs": [
+                    "© 2026 Vox Media , LLC. All Rights Reserved",
+                    "Sign in to see your notifications or create an account to join the conversation."
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:05.519914+00:00"
+        },
+        {
+            "schemaVersion": "1.0",
+            "recordType": "NEWS",
+            "source": {
+                "name": "The Verge AI",
+                "url": "https://www.theverge.com/amazon"
+            },
+            "content": {
+                "title": "Amazon | The Verge",
+                "description": "Once a modest online seller of books, Amazon is now one of the largest companies in the world, and its former CEO, Jeff Bezos, is the world’s most wealthy person. We track developments, both of Bezos and Amazon, its growth as a video producer, the popular Prime service, as well as its own hardware, which includes the Amazon Kindle e-reader, Amazon Kindle Fire tablets, and Amazon Fire TV streaming boxes.",
+                "publishedDate": "2026-09-09T13:00:00+00:00",
+                "freshness": "FRESH_24H",
+                "paragraphs": [
+                    "Once a modest online seller of books, Amazon is now one of the largest companies in the world, and its former CEO, Jeff Bezos, is the world’s most wealthy person. We track developments, both of Bezos and Amazon, its growth as a video producer, the popular Prime service, as well as its own hardware, which includes the Amazon Kindle e-reader, Amazon Kindle Fire tablets, and Amazon Fire TV streaming boxes.",
+                    "The two companies are also partnering to develop “high-performance optical connectivity solutions,” potentially amping up competition with Nvidia. As part of the deal, Qualcomm will use Amazon’s AI servers to speed up its chip design process.",
+                    "Amazon has reportedly canceled Nicolas Cage’s Spider-Man detective series that premiered on Prime Video and MGM Plus earlier this year, according to TheWrap . The report adds that Sony and Amazon “will continue collaborating” on more Marvel projects, and “have already identified the next chapter of the franchise.”",
+                    "Fallout, your favorite post-apocalyptic RPG-turned-Amazon series, is now a Stern Pinball machine . You can play as Lucy MacLean, The Ghoul, or Maximus. There’s a functional vault door and a Pip-Boy displays important game information. There’s even a V.A.T.S. cannon that shoots the ball targets on an upper playfield.",
+                    "The Amazon-owned robotaxi company was just approved to make passenger trips to and from Harry Reid International Airport in Las Vegas. Airports can be chaotic environments, and regulators want to be sure that robotaxis won’t add to the chaos. As the first robotaxi company approved for airport trips, Zoox will have its work cut out for it .",
+                    "That’s on top of the 1 million Nvidia GPUs it was already planning to add, before demand “exceeded” expectations . The two companies doubled down on their partnership as Nvidia announced record revenue yet again, and Amazon says it’s planning to bring Nvidia’s Vera CPUs to AWS.",
+                    "A new RoboCop show was recently greenlit for Amazon’s Prime Video, and Deadline reports that Stevens will play the lead role. A release date hasn’t been announced, but it’s apparently set to be an eight-episode series.",
+                    "After Ryan Hurst was forced to step away from the leading role in Amazon’s God of War TV series due to an injury, Bautista will be taking over, Variety reports . Bautista was recently rumored to be in talks for the role.",
+                    "For better or worse, Amazon Alexa and Google Home’s smart voice assistants have been imbued with new generative AI powers.",
+                    "The promise is you can use natural language with your smart speaker to adjust your thermostat, lock the doors, and find out what your pets have been up to. The reality is smart home voice assistants are going through an identity crisis. I invited Verge editor-in-chief Nilay Patel onto his own podcast to compare notes on life with Alexa Plus versus Gemini for Home."
+                ]
+            },
+            "collectedAt": "2026-09-10T07:56:09.257529+00:00"
+        }
+    ]
+}
